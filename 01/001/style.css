@@ -1,0 +1,25 @@
+.body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.uno {
+    background-color: aqua;
+    border: 5px solid red;
+    padding: 32px;
+    margin: 12px;
+}
+
+.dos {
+    background-color: brown;
+    border: 5px solid green;
+    margin-bottom: 48px;
+}
+
+.tres {
+    background-color: chartreuse;
+    border: 5px solid black;
+    padding: 32px;
+    margin-left: auto;
+    width: 200px;
+}

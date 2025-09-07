@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+
+.box-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+}
+
+.one, .second, .three, .four {
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100pxs;
+}
